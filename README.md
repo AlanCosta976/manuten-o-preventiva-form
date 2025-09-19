@@ -8,10 +8,7 @@ Este projeto é um formulário em **HTML e CSS** para registrar manutenções pr
 - Checklist de hardware, software e rede
 - Campo para problemas encontrados, ações realizadas e recomendações
 
-## 📌 Próximos passos
-- Criar `index.html` com o formulário
-- Melhorar o layout com CSS
-- Publicar via GitHub Pages (opcional)
 
-## 👨‍💻 Autor
+
+👨‍💻 Autor
 - Alan Costa
