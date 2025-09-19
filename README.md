@@ -2,9 +2,6 @@
 
 Este projeto é um formulário em **HTML e CSS** para registrar manutenções preventivas de computadores.
 
-## 🚀 Como usar
-- Abra o arquivo `index.html` em qualquer navegador.
-- Preencha os campos e utilize o formulário.
 
 ## 📋 Funcionalidades
 - Registro de técnico, setor e data
